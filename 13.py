@@ -1,3 +1,3 @@
 print("hiii")
-def modhe(avi):
-    print(avi)
+def modhe(daviv):
+    print(daviv)
